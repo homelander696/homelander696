@@ -4,7 +4,7 @@
 
 ### **Ratan**
 
-🏫 **MNNIT Allahabad** · 📊 **CPI: 8.63**
+🏫 **MNNIT Allahabad** · 📊 **CPI: 8.64**
 
 *Engineering student · Competitive Programmer · Full-Stack Developer*
 
