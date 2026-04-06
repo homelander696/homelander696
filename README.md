@@ -160,7 +160,6 @@ Built entirely with vanilla HTML, CSS, JS — Death Note aesthetic with anime-st
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=homelander696&theme=dark&hide_border=true&stroke=e63946&ring=e63946&fire=ff6b6b&currStreakLabel=e63946" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=homelander696&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=e63946&title_color=e63946" width="49%"/>
 
 <br/>
 
