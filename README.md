@@ -166,14 +166,6 @@ Built entirely with vanilla HTML, CSS, JS — Death Note aesthetic with anime-st
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-</div>
-
----
-
 ## 🎖️ Achievements
 
 | | Achievement |
