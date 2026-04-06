@@ -144,16 +144,6 @@ Built entirely with vanilla HTML, CSS, JS — Death Note aesthetic with anime-st
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-200%2B_Solved_·_Top_10%25-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ratankumfuua)
 
 <br/>
-
-```
-  LeetCode      Codeforces     CodeChef      GeeksForGeeks
-  596 solved     509 solved     1532 rating    200+ solved
-  Rating 1679    Rating 1372    Peak   1687    4 Stars
-                                ★ ★             Top 10% College
-────────────────────────────────────────────────────────────
-                     Total: 1100+ Problems Solved
-```
-
 </div>
 
 | Platform | Handle | Solved | Rating / Stars |
@@ -174,8 +164,6 @@ Built entirely with vanilla HTML, CSS, JS — Death Note aesthetic with anime-st
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homelander696&layout=compact&theme=dark&hide_border=true&title_color=e63946" width="40%"/>
-
 </div>
 
 ---
@@ -183,9 +171,6 @@ Built entirely with vanilla HTML, CSS, JS — Death Note aesthetic with anime-st
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=homelander696&theme=github-compact&hide_border=true&bg_color=0d1117&color=e63946&line=e63946&point=ffffff" width="100%"/>
-
 </div>
 
 ---
