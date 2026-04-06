@@ -186,8 +186,6 @@ Built entirely with vanilla HTML, CSS, JS — Death Note aesthetic with anime-st
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/ratan03-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ratan03/)
 [![GitHub](https://img.shields.io/badge/github.com/homelander696-181717?style=for-the-badge&logo=github)](https://github.com/homelander696)
 
-📍 MNNIT Allahabad, Prayagraj · 📞 +91 7367063514
-
 </div>
 
 ---
